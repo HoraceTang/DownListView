@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3BCC43EC1C43CE0000C9CA28"
-               BuildableName = "&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;.app"
-               BlueprintName = "&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;"
-               ReferencedContainer = "container:&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;.xcodeproj">
+               BuildableName = "DownListView.app"
+               BlueprintName = "DownListView"
+               ReferencedContainer = "container:DownListView.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3BCC44051C43CE0000C9CA28"
-               BuildableName = "&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;Tests.xctest"
-               BlueprintName = "&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;Tests"
-               ReferencedContainer = "container:&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;.xcodeproj">
+               BuildableName = "DownListView.xctest"
+               BlueprintName = "DownListViewTests"
+               ReferencedContainer = "container:DownListView.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3BCC44101C43CE0000C9CA28"
-               BuildableName = "&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;UITests.xctest"
-               BlueprintName = "&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;UITests"
-               ReferencedContainer = "container:&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;.xcodeproj">
+               BuildableName = "DownListView.xctest"
+               BlueprintName = "DownListViewUITests"
+               ReferencedContainer = "container:DownListView.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3BCC43EC1C43CE0000C9CA28"
-            BuildableName = "&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;.app"
-            BlueprintName = "&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;"
-            ReferencedContainer = "container:&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;.xcodeproj">
+            BuildableName = "DownListView.app"
+            BlueprintName = "DownListView"
+            ReferencedContainer = "container:DownListView.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3BCC43EC1C43CE0000C9CA28"
-            BuildableName = "&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;.app"
-            BlueprintName = "&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;"
-            ReferencedContainer = "container:&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;.xcodeproj">
+            BuildableName = "DownListView.app"
+            BlueprintName = "DownListView"
+            ReferencedContainer = "container:DownListView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3BCC43EC1C43CE0000C9CA28"
-            BuildableName = "&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;.app"
-            BlueprintName = "&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;"
-            ReferencedContainer = "container:&#x70b9;&#x51fb;&#x4e0b;&#x62c9;&#x83dc;&#x5355;.xcodeproj">
+            BuildableName = "DownListView.app"
+            BlueprintName = "DownListView"
+            ReferencedContainer = "container:DownListView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

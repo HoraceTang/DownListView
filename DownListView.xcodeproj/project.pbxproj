@@ -15,28 +15,7 @@
 		3B17C5AA1C92962F00ECB9D4 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3B17C5A11C92962F00ECB9D4 /* Info.plist */; };
 		3B17C5AB1C92962F00ECB9D4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B17C5A21C92962F00ECB9D4 /* main.m */; };
 		3B17C5AC1C92962F00ECB9D4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B17C5A41C92962F00ECB9D4 /* ViewController.m */; };
-		3B17C5B31C92966C00ECB9D4 /* ______Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B17C5AE1C92966C00ECB9D4 /* ______Tests.m */; };
-		3B17C5B41C92966C00ECB9D4 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3B17C5AF1C92966C00ECB9D4 /* Info.plist */; };
-		3B17C5B51C92966C00ECB9D4 /* ______UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B17C5B11C92966C00ECB9D4 /* ______UITests.m */; };
-		3B17C5B61C92966C00ECB9D4 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3B17C5B21C92966C00ECB9D4 /* Info.plist */; };
 /* End PBXBuildFile section */
-
-/* Begin PBXContainerItemProxy section */
-		3BCC44071C43CE0000C9CA28 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 3BCC43E51C43CE0000C9CA28 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 3BCC43EC1C43CE0000C9CA28;
-			remoteInfo = "点击下拉菜单";
-		};
-		3BCC44121C43CE0000C9CA28 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 3BCC43E51C43CE0000C9CA28 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 3BCC43EC1C43CE0000C9CA28;
-			remoteInfo = "点击下拉菜单";
-		};
-/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		3B17C5981C92962F00ECB9D4 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -50,31 +29,11 @@
 		3B17C5A21C92962F00ECB9D4 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3B17C5A31C92962F00ECB9D4 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		3B17C5A41C92962F00ECB9D4 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		3B17C5AE1C92966C00ECB9D4 /* ______Tests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "______Tests.m"; sourceTree = "<group>"; };
-		3B17C5AF1C92966C00ECB9D4 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3B17C5B11C92966C00ECB9D4 /* ______UITests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "______UITests.m"; sourceTree = "<group>"; };
-		3B17C5B21C92966C00ECB9D4 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3BCC43ED1C43CE0000C9CA28 /* DownListView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DownListView.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		3BCC44061C43CE0000C9CA28 /* DownListView.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DownListView.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		3BCC44111C43CE0000C9CA28 /* DownListView.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DownListView.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		3BCC43EA1C43CE0000C9CA28 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3BCC44031C43CE0000C9CA28 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3BCC440E1C43CE0000C9CA28 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -102,30 +61,10 @@
 			path = DownListView;
 			sourceTree = "<group>";
 		};
-		3B17C5AD1C92966C00ECB9D4 /* DownListViewTests */ = {
-			isa = PBXGroup;
-			children = (
-				3B17C5AE1C92966C00ECB9D4 /* ______Tests.m */,
-				3B17C5AF1C92966C00ECB9D4 /* Info.plist */,
-			);
-			path = DownListViewTests;
-			sourceTree = "<group>";
-		};
-		3B17C5B01C92966C00ECB9D4 /* DownListViewUITests */ = {
-			isa = PBXGroup;
-			children = (
-				3B17C5B11C92966C00ECB9D4 /* ______UITests.m */,
-				3B17C5B21C92966C00ECB9D4 /* Info.plist */,
-			);
-			path = DownListViewUITests;
-			sourceTree = "<group>";
-		};
 		3BCC43E41C43CE0000C9CA28 = {
 			isa = PBXGroup;
 			children = (
 				3B17C5971C92962F00ECB9D4 /* DownListView */,
-				3B17C5AD1C92966C00ECB9D4 /* DownListViewTests */,
-				3B17C5B01C92966C00ECB9D4 /* DownListViewUITests */,
 				3BCC43EE1C43CE0000C9CA28 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -134,8 +73,6 @@
 			isa = PBXGroup;
 			children = (
 				3BCC43ED1C43CE0000C9CA28 /* DownListView.app */,
-				3BCC44061C43CE0000C9CA28 /* DownListView.xctest */,
-				3BCC44111C43CE0000C9CA28 /* DownListView.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -160,42 +97,6 @@
 			productReference = 3BCC43ED1C43CE0000C9CA28 /* DownListView.app */;
 			productType = "com.apple.product-type.application";
 		};
-		3BCC44051C43CE0000C9CA28 /* DownListViewTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 3BCC441D1C43CE0000C9CA28 /* Build configuration list for PBXNativeTarget "DownListViewTests" */;
-			buildPhases = (
-				3BCC44021C43CE0000C9CA28 /* Sources */,
-				3BCC44031C43CE0000C9CA28 /* Frameworks */,
-				3BCC44041C43CE0000C9CA28 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				3BCC44081C43CE0000C9CA28 /* PBXTargetDependency */,
-			);
-			name = DownListViewTests;
-			productName = "点击下拉菜单Tests";
-			productReference = 3BCC44061C43CE0000C9CA28 /* DownListView.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		3BCC44101C43CE0000C9CA28 /* DownListViewUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 3BCC44201C43CE0000C9CA28 /* Build configuration list for PBXNativeTarget "DownListViewUITests" */;
-			buildPhases = (
-				3BCC440D1C43CE0000C9CA28 /* Sources */,
-				3BCC440E1C43CE0000C9CA28 /* Frameworks */,
-				3BCC440F1C43CE0000C9CA28 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				3BCC44131C43CE0000C9CA28 /* PBXTargetDependency */,
-			);
-			name = DownListViewUITests;
-			productName = "点击下拉菜单UITests";
-			productReference = 3BCC44111C43CE0000C9CA28 /* DownListView.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -207,14 +108,7 @@
 				TargetAttributes = {
 					3BCC43EC1C43CE0000C9CA28 = {
 						CreatedOnToolsVersion = 7.2;
-					};
-					3BCC44051C43CE0000C9CA28 = {
-						CreatedOnToolsVersion = 7.2;
-						TestTargetID = 3BCC43EC1C43CE0000C9CA28;
-					};
-					3BCC44101C43CE0000C9CA28 = {
-						CreatedOnToolsVersion = 7.2;
-						TestTargetID = 3BCC43EC1C43CE0000C9CA28;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -232,8 +126,6 @@
 			projectRoot = "";
 			targets = (
 				3BCC43EC1C43CE0000C9CA28 /* DownListView */,
-				3BCC44051C43CE0000C9CA28 /* DownListViewTests */,
-				3BCC44101C43CE0000C9CA28 /* DownListViewUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -245,24 +137,8 @@
 			files = (
 				3B17C5AA1C92962F00ECB9D4 /* Info.plist in Resources */,
 				3B17C5A81C92962F00ECB9D4 /* Main.storyboard in Resources */,
-				3B17C5B61C92966C00ECB9D4 /* Info.plist in Resources */,
 				3B17C5A61C92962F00ECB9D4 /* Assets.xcassets in Resources */,
-				3B17C5B41C92966C00ECB9D4 /* Info.plist in Resources */,
 				3B17C5A71C92962F00ECB9D4 /* LaunchScreen.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3BCC44041C43CE0000C9CA28 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3BCC440F1C43CE0000C9CA28 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,42 +150,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B17C5A91C92962F00ECB9D4 /* DownListView.m in Sources */,
-				3B17C5B51C92966C00ECB9D4 /* ______UITests.m in Sources */,
 				3B17C5AB1C92962F00ECB9D4 /* main.m in Sources */,
 				3B17C5AC1C92962F00ECB9D4 /* ViewController.m in Sources */,
 				3B17C5A51C92962F00ECB9D4 /* AppDelegate.m in Sources */,
-				3B17C5B31C92966C00ECB9D4 /* ______Tests.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3BCC44021C43CE0000C9CA28 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3BCC440D1C43CE0000C9CA28 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		3BCC44081C43CE0000C9CA28 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 3BCC43EC1C43CE0000C9CA28 /* DownListView */;
-			targetProxy = 3BCC44071C43CE0000C9CA28 /* PBXContainerItemProxy */;
-		};
-		3BCC44131C43CE0000C9CA28 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 3BCC43EC1C43CE0000C9CA28 /* DownListView */;
-			targetProxy = 3BCC44121C43CE0000C9CA28 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		3B17C59B1C92962F00ECB9D4 /* LaunchScreen.storyboard */ = {
@@ -417,10 +264,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "点击下拉菜单/Info.plist";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "$(SRCROOT)/DownListView/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tanghong.com;
 				PRODUCT_NAME = DownListView;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
@@ -428,58 +278,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "点击下拉菜单/Info.plist";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "$(SRCROOT)/DownListView/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tanghong.com;
 				PRODUCT_NAME = DownListView;
-			};
-			name = Release;
-		};
-		3BCC441E1C43CE0000C9CA28 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = "点击下拉菜单Tests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "tanghong.------Tests";
-				PRODUCT_NAME = DownListView;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DownListView.app/DownListView";
-			};
-			name = Debug;
-		};
-		3BCC441F1C43CE0000C9CA28 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = "点击下拉菜单Tests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "tanghong.------Tests";
-				PRODUCT_NAME = DownListView;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DownListView.app/DownListView";
-			};
-			name = Release;
-		};
-		3BCC44211C43CE0000C9CA28 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				INFOPLIST_FILE = "点击下拉菜单UITests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "tanghong.------UITests";
-				PRODUCT_NAME = DownListView;
-				TEST_TARGET_NAME = "点击下拉菜单";
-				USES_XCTRUNNER = YES;
-			};
-			name = Debug;
-		};
-		3BCC44221C43CE0000C9CA28 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				INFOPLIST_FILE = "点击下拉菜单UITests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "tanghong.------UITests";
-				PRODUCT_NAME = DownListView;
-				TEST_TARGET_NAME = "点击下拉菜单";
-				USES_XCTRUNNER = YES;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};
@@ -500,24 +305,6 @@
 			buildConfigurations = (
 				3BCC441B1C43CE0000C9CA28 /* Debug */,
 				3BCC441C1C43CE0000C9CA28 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		3BCC441D1C43CE0000C9CA28 /* Build configuration list for PBXNativeTarget "DownListViewTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				3BCC441E1C43CE0000C9CA28 /* Debug */,
-				3BCC441F1C43CE0000C9CA28 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		3BCC44201C43CE0000C9CA28 /* Build configuration list for PBXNativeTarget "DownListViewUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				3BCC44211C43CE0000C9CA28 /* Debug */,
-				3BCC44221C43CE0000C9CA28 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
